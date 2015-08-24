@@ -1,0 +1,9 @@
+c:\users\william\documents\visual studio 2013\Projects\Battlefield\Battlefield\bin\Debug\Battlefield.exe
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\bin\Debug\Battlefield.exe.config
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.mainApp.resources
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.Properties.Resources.resources
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.csproj.GenerateResource.Cache
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.exe
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.pdb
+C:\Users\William\Documents\Visual Studio 2013\Projects\Battlefield\Battlefield\obj\Debug\Battlefield.csprojResolveAssemblyReference.cache
+C:\Users\William\documents\visual studio 2013\Projects\Battlefield\Battlefield\bin\Debug\Battlefield.pdb
